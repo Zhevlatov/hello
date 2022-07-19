@@ -1,3 +1,4 @@
 New str
 Second str
 hello git
+hello, git rebase
